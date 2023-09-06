@@ -29,3 +29,7 @@ When our model predicts that a customer might leave, we can take proactive actio
 Churn prediction is an ongoing process. As we gather more data and learn from customer behaviors, we can refine our model and strategies. This helps us stay ahead of customer preferences and keep our churn rate low over time.
 
 
+
+
+https://github.com/pAbhit007/Customer-Churn-Prediciton/assets/111629488/29e6b8ca-6460-45a3-ab95-a12f59fe9056
+
